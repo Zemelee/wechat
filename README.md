@@ -58,11 +58,15 @@ mvn spring-boot:run
 ![teach](/imgs/cmp.png "全面超越微信！")
 ![teach](/imgs/details.png "小细节")
 - **消息框颜色**：精确提取微信消息框颜色，保持视觉一致性
+  
+![teach](/imgs/main.png "msg")
 - **联系人置顶**：优化聊天体验，从联系人列表发起的会话在消息列表页置顶
 - **全局消息接收**：在任何页面均可接收到消息，无需进入聊天页面
 - **消息提示音**：播放消息接收提示音，提醒用户有新消息
 - **首页搜索框**：输入即本地搜索，回车即联网搜索
 - **消息右键菜单**：提供文本复制、外语翻译、消息删除等功能
+
+![teach](/imgs/msg-setting.png "msg")
 - **消息滚动**：发送消息立即滚动到底部，定位到最新消息
 - **时间显示**：近期时间显示时分、昨天、星期，远期时间显示年月日
 - **心跳机制**
@@ -71,6 +75,10 @@ mvn spring-boot:run
 - **性能优化**
 ![teach](/imgs/performance.png "性能优化")
 ![teach](/imgs/performance2.png "性能优化")
+- 个人设置
+![teach](/imgs/setting.png "设置")
+- 群聊
+![teach](/imgs/group.png "群聊")
 
 
 ## 未实现功能
